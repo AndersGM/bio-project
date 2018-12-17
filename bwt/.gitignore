@@ -1,0 +1,5 @@
+cmake-buid-debug/
+CMakeCache.txt
+CMakeFiles
+bwt
+bwt_test
